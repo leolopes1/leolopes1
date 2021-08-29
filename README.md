@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on CNI
+🌱 I’m currently learning C# and Node.js
+📫 How to reach me: leonardo.skar@gmail.com
+
+
 <!--
 **leolopes1/leolopes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
