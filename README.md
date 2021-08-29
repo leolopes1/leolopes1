@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on CNI
-🌱 I’m currently learning C# and Node.js
-📫 How to reach me: leonardo.skar@gmail.com
+🔭 I’m currently working on CNI /n
+🌱 I’m currently learning C# and Node.js /n
+📫 How to reach me: leonardo.skar@gmail.com /n
 
 
 <!--
